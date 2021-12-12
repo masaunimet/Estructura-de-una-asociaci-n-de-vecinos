@@ -1,5 +1,7 @@
 # Estructura-de-una-asociaci-n-de-vecinos
 
+----Para su funcionamiento tiene que implementarse en el framework de Java, NetBeans----
+
 La asociación de vecinos de la urbanización en la cual usted vive requiere de su colaboración para construir un sistema en Java que permita acceder y administrar los datos de los vecinos. A continuación se describen los requerimientos de dicho sistema.
 
 Requerimientos:
