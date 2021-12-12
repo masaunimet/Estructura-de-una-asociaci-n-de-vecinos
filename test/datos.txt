@@ -1,0 +1,274 @@
+edif,,
+‘Los Angeles’,,
+apto,,
+11,,
+34280458,Rigel Ware,794333146
+apto,,
+12,,
+39830557,Cody Roberson,5875974726
+32290548,Callum Harvey,892374787
+apto,,
+13,,
+50815344,Caesar Sullivan,5371773374
+apto,,
+21,,
+9759527,Garth Irwin,3903996925
+apto,,
+22,,
+21557802,Melvin Wright,1414147811
+apto,,
+23,,
+23019145,Jamal Strong,2483367281
+7952745,Duncan Singleton,2415487163
+24080944,Colorado Cantu,7648874592
+apto,,
+31,,
+48735953,Brady William,7767237932
+33806156,Wesley Mcgee ,5154597376
+7535146,Uriah Madden,5955559468
+14668181,Edan Adkins,8036998292
+apto,,
+32,,
+40701677,Lionel Henderson,6771513769
+14087858,Bradley Spence,6037631556
+apto,,
+33,,
+43751108,Chase Hill,5294267756
+apto,,
+41,,
+32036154,Asher Clarke,5377482348
+11657763,Emmanuel Calderon,8457782849
+5756786,Eaton Barrett,4134956943
+apto,,
+42,,
+40128415,Russell Payne,1706797578
+apto,,
+43,,
+12350940,Melvin Barnes,3803649375
+apto,,
+51,,
+39278703,Galvin Terrell,3023365884
+45715993,Keith Lee,1576956789
+43081909,Garrett Hendricks,6338884923
+apto,,
+52,,
+7442941,Orlando Lara,6367213228
+apto,,
+53,,
+19183128,Declan Oconnor,2298418976
+apto,,
+61,,
+31243034,Burton Hickman,834297841
+apto,,
+62,,
+41772456,Hamilton Frye,8006337914
+apto,,
+63,,
+13680927,Wyatt Black,1674596733
+apto,,
+71,,
+42451363,Upton Sanders,9583441786
+apto,,
+72,,
+12722546,Marvin Guerrero,8132716613
+apto,,
+73,,
+30315970,Emerson Fletcher,58283632
+apto,,
+PH,,
+26803243,Bruno Contreras,3733262268
+24058636,Louis Rivers,2318916658
+edif,,
+‘Los Cedros’,,
+apto,,
+11,,
+43984537,Wang Vinson,5012367446
+apto,,
+12,,
+32112086,Avram Nolan,5793791583
+31606760,Russell Eaton,6003214726
+apto,,
+13,,
+37846574,Daniel Clay,5905551641
+16570833,Reece Bullock,2161962154
+apto,,
+14,,
+7892934,Omar Kim,257722183
+24391069,Emery Forbes,3637833351
+apto,,
+21,,
+23381849,Ross Kramer,3993775168
+apto,,
+22,,
+13074365,Brent Gallagher,2304612762
+apto,,
+23,,
+25164127,Luke Bruce,5749833241
+apto,,
+24,,
+22945147,Ishmael Rodgers,5536266321
+apto,,
+31,,
+42262427,Vance Sanchez,5733426453
+33064405,Keegan Patel,3226341865
+apto,,
+32,,
+30898993,Walter Ewing,6699391639
+26586831,Abel Sweet,9586395326
+apto,,
+33,,
+7781752,Slade Snider,9791443938
+apto,,
+34,,
+41845979,Dieter Kline,3079122156
+apto,,
+41,,
+31356289,Zachary Perry,8094874447
+apto,,
+42,,
+29368647,Marvin Cox,9021888498
+apto,,
+43,,
+33222525,Nathaniel Baird,134231736
+apto,,
+44,,
+11052121,Nathaniel Decker,2529839522
+apto,,
+51,,
+13430745,Yardley Hood,3541154838
+9490945,Asher Rosa,8318864177
+apto,,
+52,,
+32991907,Roth Meadows,7386761872
+31357661,Nero Foster,585981347
+11762035,Beau Velasquez,7787663724
+apto,,
+53,,
+10089229,Hamilton Sosa,9299548342
+apto,,
+54,,
+30368776,Logan Hutchinson,2996453684
+apto,,
+61,,
+33234453,Lucius Merritt,7491261355
+apto,,
+62,,
+41012310,Micah Powell,3216493178
+apto,,
+63,,
+39807308,Amal Mcdonald,3828592964
+apto,,
+64,,
+47461068,Dolan Burks,5111282492
+apto,,
+71,,
+12437489,Oscar Garrett,7275658297
+apto,,
+72,,
+18766211,Edan Calhoun,4248369117
+apto,,
+73,,
+19729615,Murphy Underwood,4254947441
+apto,,
+74,,
+8709701,Quinn Serrano,9438422334
+apto,,
+PH,,
+14472544,Stone Mays,2539139522
+edif,,
+‘María Luisa’,,
+apto,,
+11,,
+31494928,Judah Walton,8899736954
+apto,,
+12,,
+39236783,Hunter Guthrie,7153287988
+apto,,
+21,,
+36149676,Gage Espinoza,8329929573
+7060451,Declan Bonner,3786743894
+22229887,Talon House,3219133673
+28890711,Dieter Cash,1896353269
+11503365,Ray Carson,9444463277
+apto,,
+22,,
+49877722,Garrison Lancaster,4265534343
+,,
+apto,,
+31,,
+38512644,Reece Carver,8559395542
+apto,,
+32,,
+19082335,Xavier Foster,4251466162
+37629091,Otto Newton,1347273484
+apto,,
+41,,
+23102024,Dale Hodges,4161431984
+20061526,Isaac Weber,8519224911
+apto,,
+42,,
+5097451,Thor Burton,1513856659
+34283108,Arsenio Beasley,591112145
+apto,,
+51,,
+9994185,Perry Gallegos,5131186975
+10941047,Conan Sellers,5832365652
+12359274,Asher Garner,2029363938
+apto,,
+52,,
+6568186,Carter Holmes,9314514552
+apto,,
+61,,
+30980880,Fuller Howe,5467214824
+apto,,
+62,,
+45396619,Clarke Hickman,7554697914
+9160966,Hoyt Hurley,1799488922
+apto,,
+71,,
+48718277,Hamilton Rivas,3531335222
+apto,,
+72,,
+14290330,Francis Kerr,9892538575
+38507460,Marshall Atkinson,72394394
+12975651,Tucker Sanders,5154469479
+Edif,,
+‘Park Avenue’,,
+apto,,
+11,,
+29281966,Wing Slater,5341751445
+50966890,Chancellor Camacho,8832982749
+19478213,Igor Rodriguez,6545518244
+apto,,
+12,,
+13482993,Dustin Chan,9689129349
+24161280,Rogan Dodson,4174971824
+24157423,Micah Madden,8581816757
+16621992,Nissim Gutierrez,4708255887
+apto,,
+21,,
+47799701,Oleg Carrillo,3171862451
+10329250,Xanthus Cantrell,89488874
+8903607,Tyrone Mathews,4271451782
+38439455,Cooper Avila,4119875273
+26466349,Beau Flynn,215897738
+apto,,
+22,,
+7176866,Jarrod Holmes,6673441655
+36704029,Leonard Molina,574573257
+15750698,Griffin Warner,1226653
+apto,,
+31,,
+24382528,Austin Mercado,8408562643
+apto,,
+32,,
+24702063,Kenneth Leach,8482736862
+apto,,
+41,,
+36501640,Oleg Mcpherson,2003657392
+32925764,Wallace Barlow,7915195998
+apto,,
+42,,
+50333620,Russell Gardner,7692981791
+32240054,Dolan Townsend,3787257158
+11968547,Benedict Boyer,7011864252
